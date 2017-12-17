@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+html {
+    font-size: 10px;
+}
+
+header {
+    height: 100vh;
+    width: auto;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: hidden;
+    font-family: 'Roboto Mono', monospace;
+
+}
+
+main {
+    height: 100vh;
+    width: 100vw;
+    background-color: gray;
+}
+
+header img {
+    position: absolute;
+    bottom: 0;
+
+    height: 70vh;
+}
+
+header nav {
+    position: absolute;
+    right: 10%;
+    top: 3%;
+    font-size: 12rem;
+    color: #BBE4DC;
+}
+
+header h1 {
+    position: absolute;
+    top: 17%;
+    left: 7%;
+    font-size: 8rem;
+
+    text-transform: uppercase;
+}
+
+header h3 {
+    position: absolute;
+    top: 21%;
+    left: 9%;
+    font-size: 8rem;
+    color: #BBE4DC;
+}

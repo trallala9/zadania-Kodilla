@@ -1,0 +1,20 @@
+{
+  "name": "zadania-Kodilla",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/trallala9/zadania-Kodilla/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trallala9/zadania-Kodilla.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trallala9/zadania-Kodilla/issues"
+  },
+  "homepage": "https://github.com/trallala9/zadania-Kodilla#readme"
+}
